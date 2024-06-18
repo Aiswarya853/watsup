@@ -13,3 +13,5 @@ vdo settings
 
 call settings
 
+stickers edit
+
