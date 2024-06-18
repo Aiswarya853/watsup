@@ -9,3 +9,7 @@ last seen
 
 profile pic settings
 
+vdo settings
+
+call settings
+
